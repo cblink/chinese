@@ -1,5 +1,5 @@
 {
-    "name": "hanson/chinese",
+    "name": "cblink/chinese",
     "description": "简繁体转换.",
     "keywords": ["pinyin", "hanzi", "jianti", "fanti"],
     "license": "MIT",
