@@ -6,7 +6,7 @@ Chinese
 # 安装方法
 
 ````
-composer require hanson/chinese:dev-master
+composer require clink/chinese
 ````
 
 # 使用示例
